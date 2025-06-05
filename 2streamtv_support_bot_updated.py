@@ -14,7 +14,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-BOT_TOKEN = '7823277651:AAF4Vc9I_yW2tY3wZIPZ1FQ5ocQmq9fXHpI'  # Replace with your actual token
+BOT_TOKEN = '7823277651:AAHYu09x6Q_poBRVURNDFthj51FLTkynaIw'  # Replace with your actual token
 
 # --- Command Handlers ---
 
